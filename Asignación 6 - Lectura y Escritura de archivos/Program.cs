@@ -15,22 +15,15 @@ namespace Asignación_6___Lectura_y_Escritura_de_archivos
         {
             string[] lineas =   File.ReadAllLines("C://Users//joanj//Desktop//Libro1.csv");
 
-            var stuff = from l in File.ReadLines("C://Users//joanj//Desktop//Libro1.csv")
-                        let x = l.Split(new[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries)
-                                
-                                
-                        select new
-                        {
-                           x,
-                        };
-
-            Console.WriteLine(stuff);
-            Console.Read();
-
-
-
-
-
+               foreach (var linea in lineas)
+               {
+                   var valores = linea.Split(',');
+                   Console.WriteLine(valores[0]  +"   "+ valores[1]+ "   " + valores[2] + "   " + valores[3]);
+                   Console.Read();
+               }
+            
+           
+            
             //addRecord("jose12", "perez", 43, "B+","libro2.csv");
 
         }
