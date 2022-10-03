@@ -1,0 +1,11 @@
+C:\Users\joanj\source\repos\Asignación 6 - Lectura y Escritura de archivos\Asignación 6 - Lectura y Escritura de archivos\bin\Debug\Asignación 6 - Lectura y Escritura de archivos.exe.config
+C:\Users\joanj\source\repos\Asignación 6 - Lectura y Escritura de archivos\Asignación 6 - Lectura y Escritura de archivos\bin\Debug\Asignación 6 - Lectura y Escritura de archivos.exe
+C:\Users\joanj\source\repos\Asignación 6 - Lectura y Escritura de archivos\Asignación 6 - Lectura y Escritura de archivos\bin\Debug\Asignación 6 - Lectura y Escritura de archivos.pdb
+C:\Users\joanj\source\repos\Asignación 6 - Lectura y Escritura de archivos\Asignación 6 - Lectura y Escritura de archivos\obj\Debug\Asignación 6 - Lectura y Escritura de archivos.csproj.AssemblyReference.cache
+C:\Users\joanj\source\repos\Asignación 6 - Lectura y Escritura de archivos\Asignación 6 - Lectura y Escritura de archivos\obj\Debug\Asignación 6 - Lectura y Escritura de archivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\joanj\source\repos\Asignación 6 - Lectura y Escritura de archivos\Asignación 6 - Lectura y Escritura de archivos\obj\Debug\Asignación 6 - Lectura y Escritura de archivos.csproj.CoreCompileInputs.cache
+C:\Users\joanj\source\repos\Asignación 6 - Lectura y Escritura de archivos\Asignación 6 - Lectura y Escritura de archivos\obj\Debug\Asignación 6 - Lectura y Escritura de archivos.exe
+C:\Users\joanj\source\repos\Asignación 6 - Lectura y Escritura de archivos\Asignación 6 - Lectura y Escritura de archivos\obj\Debug\Asignación 6 - Lectura y Escritura de archivos.pdb
+C:\Users\joanj\source\repos\Asignación 6 - Lectura y Escritura de archivos\Asignación 6 - Lectura y Escritura de archivos\bin\Debug\FileHelpers.dll
+C:\Users\joanj\source\repos\Asignación 6 - Lectura y Escritura de archivos\Asignación 6 - Lectura y Escritura de archivos\bin\Debug\FileHelpers.xml
+C:\Users\joanj\source\repos\Asignación 6 - Lectura y Escritura de archivos\Asignación 6 - Lectura y Escritura de archivos\obj\Debug\Asignación 6 - Lectura y Escritura de archivos.csproj.CopyComplete
